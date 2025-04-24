@@ -9,15 +9,7 @@ public class JapaneseRestaurant {
     // Database connectio
     public static Connection getConnection() {
         try {
-            String url = "jdbc:mysql://localhost:3306/restaurant_db";
-            String user = "root";
-            String password = "";
-            return DriverManager.getConnection(url, user, password);
-        } catch (Exception e) {
-            System.out.println("Connection Failed!");
-            e.printStackTrace();
-            return null;
-        }
+        s;danfu qwvytwyue fhpeajf iufq3ur ge
     }
 
     
